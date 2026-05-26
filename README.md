@@ -3,7 +3,7 @@
 **Author:** Haipeng Chen  
 **Affiliation:** Assistant Professor, William & Mary
 
-***Writing is an art.*** It is extremely helpful to keep reading good papers and understand how they are written and use those skills in your own writing. The following principles and section-specific tips may help when writing an AI/ML paper.
+***Writing is an art.*** It is a shame if you do the quality work but are not able to convey that with the quality writing. It is extremely helpful to keep reading good papers and understand how they are written, and use those skills in your own writing. The following principles and section-specific tips may help when writing an AI/ML paper.
 
 ---
 
