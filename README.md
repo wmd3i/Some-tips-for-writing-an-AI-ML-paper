@@ -3,7 +3,7 @@
 **Author:** Haipeng Chen  
 **Affiliation:** Assistant Professor, William & Mary
 
-***Your paper is the medium of your work.*** It is a shame if you do the quality work but are not able to convey that with the quality writing. It is extremely helpful to keep reading good papers and understand how they are written, and use those skills in your own writing. The following principles and section-specific tips may help when writing an AI/ML paper.
+***Your paper is the medium of your work.*** It is a shame if you do the quality work but are not able to deliver it with the quality writing. It is extremely helpful to keep reading good papers and understand how they are written, and use those skills in your own writing. The following principles and section-specific tips may help when writing an AI/ML paper.
 
 ---
 
