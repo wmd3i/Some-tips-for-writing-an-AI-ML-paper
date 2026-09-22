@@ -1,13 +1,12 @@
-# Some Tips for Writing an AI/ML Paper
+# Tips for Writing an AI/ML Paper
 
-**Author:** Haipeng Chen  
-**Affiliation:** Assistant Professor, William & Mary
+Haipeng Chen, Assistant Professor, William & Mary
 
-***Your paper is the medium of your work.*** It is a shame if you do the quality work but are not able to deliver it with the quality writing. It is extremely helpful to keep reading good papers and understand how they are written, and use those skills in your own writing. The following principles and section-specific tips may help when writing an AI/ML paper and perhaps broadly in computational science.
+***Your paper is the medium of your work.*** It is a shame if you do quality work but are not able to deliver it with quality writing. It is extremely helpful to keep reading good papers and understand how they are written, and use those skills in your own writing. The following principles and section-specific tips may help when writing an AI/ML paper and perhaps broadly in computational science.
 
 ---
 
-### Principle 1: Write a Holistic and Consistent Narrative
+### Principle 1: Write a holistic and consistent narrative
 
 Writing the **abstract**, **introduction**, and **main body** is like looking at the same item from different scopes:
 
@@ -27,7 +26,7 @@ For example:
 
 ---
 
-### Principle 2: Researchers Help Researchers
+### Principle 2: Be friends with the readers/reviewers
 
 Do your best to minimize the readers' and reviewers' effort in understanding the paper.
 
@@ -40,7 +39,7 @@ Guidelines:
 - Be upfront.
 - Avoid unnecessary delayed explanations or long wind-ups.
 - Be logical.
-- Revise the paper from the perspective of readers and reviewers.
+- Write/Polish the paper from the perspective of readers and reviewers.
 
 ---
 
@@ -59,6 +58,7 @@ An abstract usually has four parts:
 
 4. **Results**  
    What do the theoretical and empirical results look like?
+   Tip: Try to be specific about numbers/metrics/datasets whenever possible, rather than making a general claim like "Our method significantly outperforms state-of-the-art methods".
 
 ---
 
