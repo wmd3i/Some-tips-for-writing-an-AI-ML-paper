@@ -9,6 +9,8 @@ Haipeng Chen, Assistant Professor, William & Mary
 
 The **first** and **last** version must be done by YOU. In the first draft, try to lay out your outline as detailed as possible; In the last draft, verify every word to make sure you do mean it.
 
+---
+
 ### Principle 1: Write a holistic and consistent narrative
 
 Writing the **abstract**, **introduction**, and **main body** is like looking at the same item from different scopes:
