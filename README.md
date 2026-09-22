@@ -5,6 +5,9 @@ Haipeng Chen, Assistant Professor, William & Mary
 ***Your paper is the medium of your work.*** It is a shame if you do quality work but are not able to deliver it with quality writing. It is extremely helpful to keep reading good papers and understand how they are written, and use those skills in your own writing. The following principles and section-specific tips may help when writing an AI/ML paper and perhaps broadly in computational science.
 
 ---
+### Principle 0.5: Using AI
+
+The **first** and **last** version must be done by YOU. In the first draft, try to lay out your outline as detailed as possible; In the last draft, verify every word to make sure you do mean it.
 
 ### Principle 1: Write a holistic and consistent narrative
 
@@ -58,6 +61,7 @@ An abstract usually has four parts:
 
 4. **Results**  
    What do the theoretical and empirical results look like?
+   
    Tip: Try to be specific about numbers/metrics/datasets whenever possible, rather than making a general claim like "Our method significantly outperforms state-of-the-art methods".
 
 ---
@@ -68,13 +72,15 @@ The introduction is an expanded version of the abstract.
 
 The rest of the paper is a further expansion of the introduction.
 
+Tip: Add a visual to explain your key idea/motivation whenever possible. Visuals help us convey ideas more easily.
+
 ---
 
 ## Related Work
 
 The goals of the Related Work section are to:
 
-1. Show that we have a good understanding of the literature.
+1. Show that we have a solid understanding of the literature.
 2. Show that there is a gap in existing work that our paper aims to fill.
 
 ### How to Efficiently Conduct a Literature Review for AI/ML Papers
@@ -144,7 +150,7 @@ Optional fields:
 
 ## Preliminary and Methodology
 
-The preliminary section is optional.
+The preliminary section is optional. Use it when there is a clear base framework that your paper will build on and has a clear advantage.
 
 For the methodology section:
 
@@ -155,10 +161,10 @@ For the methodology section:
 - Tell a story, not a list of bullets.
 - Be clear, concise, and **consistent**.
 - Always explain the notation the first time it appears.
-- Justify design choices.
+- Justify design choices if applicable.
 - Explain why specific methods or models are chosen.
 - Use visuals to illustrate model architectures whenever possible.
-- Use algorithm blocks for methodological pipelines whenever possible.
+- Use algorithm blocks for methodological pipelines whenever appropriate.
 
 ---
 
@@ -199,12 +205,14 @@ The plan should include: Tables & Figures to include in the paper; Expected runt
 
 Usually, this section includes:
 
-1. A core result.
+1. A core result. 
 2. An ablation study, especially for a new algorithm.
 3. Auxiliary results, such as:
    - Visualizations
    - Exploratory results
    - Interpretation
+
+Tip: number the key takeaways of your results and highlight key aspects, rather than writing a plain, long paragraph.
 
 ---
 
