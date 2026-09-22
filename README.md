@@ -233,8 +233,7 @@ Options include:
 
 ## Summary Checklist
 
-Before submitting an AI/ML paper, check that:
-
+- [ ] You have reviewed the entire paper word by word at least once.
 - [ ] The abstract, introduction, and main body tell the same story.
 - [ ] The paper clearly states the research gap.
 - [ ] The methodology supports the novelty claim.
