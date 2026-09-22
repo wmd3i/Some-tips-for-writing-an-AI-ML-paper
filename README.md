@@ -112,34 +112,17 @@ These selected papers are the ones that we may need to compare with.
 
 Use `@article`.
 
-Required fields:
+- Required fields:`author`, `title`, `journal`, `year`
 
-- `author`
-- `title`
-- `journal`
-- `year`
-
-Optional fields:
-
-- `volume`
-- `number`
-- `pages`
-- `doi`
+- Optional fields: `volume`, `number`, `pages`, `doi`
 
 #### Conference Papers
 
 Use `@inproceedings`.
 
-Required fields:
+- Required fields: `author`, `title`, `booktitle`, `year`
 
-- `author`
-- `title`
-- `booktitle`
-- `year`
-
-Optional fields:
-
-- `pages`
+- Optional fields: `pages`
 
 ### Rule of Thumb
 
