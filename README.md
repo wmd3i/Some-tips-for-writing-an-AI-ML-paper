@@ -146,6 +146,7 @@ For the methodology section:
 - Tell a story, not a list of bullets.
 - Be clear, concise, and **consistent**.
 - Always explain the notation the first time it appears.
+- Point/refer to equations whenever appropriate to make pointers more accurate.
 - Justify design choices if applicable.
 - Explain why specific methods or models are chosen.
 - Use visuals to illustrate model architectures whenever possible.
