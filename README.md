@@ -160,13 +160,8 @@ When writing equations:
 
 - Be consistent about whether equations end with commas or periods.
 - Avoid unnecessary space between text and equations to save space.
-- References to equations should use `Eq.\eqref{}`.
-
-Important details:
-
-1. Use no space between `Eq.` and `\eqref{}`.
-2. Use `\eqref{}` instead of `\ref{}`.
-3. Capitalize the first letter: use `Eq.` instead of `eq.`.
+- Pay attention to references to equations; different style files may yield different formats for `\Eqref` and `\eqref'.
+- Do **call back** the equations that you defined earlier. With pointers to equations, it is much easier to understand, reminds readers of previous key arguments, and creates a call-back loop.
 
 ---
 
